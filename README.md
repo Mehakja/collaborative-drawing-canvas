@@ -1,6 +1,15 @@
+
 # Real-Time Collaborative Drawing Canvas
 
 A React + TypeScript + HTML Canvas + Node.js + Socket.IO R&D assignment.
+
+##  Live Demo
+
+ https://collaborative-drawing-canvas-client-pi.vercel.app
+
+##  GitHub Repository
+
+ https://github.com/Mehakja/collaborative-drawing-canvas
 
 ## Features
 
